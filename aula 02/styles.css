@@ -1,0 +1,9 @@
+#minhaDiv {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
